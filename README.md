@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/amazonaws/white" />
-    <img alt="AWS Logo" src="https://cdn.simpleicons.org/amazonaws/black" width="60" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://svgl.app/library/aws_dark.svg" />
+    <img alt="AWS Logo" src="https://svgl.app/library/aws_light.svg" width="80" />
   </picture>
 </p>
 
@@ -13,12 +13,6 @@
   <a href="LICENSE"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/badge/license-MIT.svg?variant=outline&amp;mode=dark&amp;font=geist" /><img alt="license" src="https://shieldcn.dev/badge/license-MIT.svg?variant=outline&amp;mode=light&amp;font=geist" /></picture></a>
   <a href="https://github.com/bhagirath00/awesome-aws"><picture><source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/views/repo/bhagirath00/awesome-aws.svg?variant=outline&amp;mode=dark&amp;font=geist" /><img alt="views" src="https://shieldcn.dev/views/repo/bhagirath00/awesome-aws.svg?variant=outline&amp;mode=light&amp;font=geist" /></picture></a>
 </p>
-
-<p align="center">
-  <em>A curated, professional-grade guide to mastering Amazon Web Services (AWS) for DevOps engineering, cloud architecture, and infrastructure automation.</em>
-</p>
-
----
 
 ## Table of Contents
 
